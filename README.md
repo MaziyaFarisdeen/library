@@ -1,6 +1,6 @@
 #Name: F.F.Maziya
-#Reg No:KEG/IT/2021/F/0098
-#My performence is Delete
+#Reg No: KEG/IT/2021/F/0098
+#My function is Delete
 
 #Group Members:
 #Ashfa(0001)-View
